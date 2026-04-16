@@ -84,9 +84,9 @@ WSGI_APPLICATION = 'psm.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'BREWBEAUTY',
+        'NAME': 'ecomakeup',
         'USER': 'root',
-        'PASSWORD' : 'Ezlynazwa0910@',
+        'PASSWORD' : '',
         'HOST': 'localhost',
         'PORT': '3306'
     }
