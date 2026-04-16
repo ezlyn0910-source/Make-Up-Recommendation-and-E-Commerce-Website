@@ -206,7 +206,8 @@ class MakeupRecommender:
 
     def _rule_based(self, assess):
         """
-        Returns a dict {product_id: rule_score}. Applies:
+        Returns a dict {product_id:
+        rule_score}. Applies:
           - Hard exclusion for high sensitivity if product isn't hypoallergenic
           - Boosts for dryness/oiliness/aging/acne rules
           - Shade‐availability downweight: if no matching variation, assign 0 entirely
