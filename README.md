@@ -1,7 +1,7 @@
 # Make Up Recommendation and E-Commerce Website
 
 ## Description
-
+Brew Beauty is a web-based e-commerce and makeup recommendation platform designed to digitalize beauty retail operations. The system addresses the challenges faced by physical stores, such as manual inventory tracking and the difficulty customers face when choosing products from a vast array of brands.The platform's standout feature is its Smart Recommendation Engine, which utilizes a hybrid approach to analyze a user's specific skin profile including skin type, undertone, and primary concerns to suggest the most compatible makeup products. By integrating real-time stock management with a personalized shopping journey, Brew Beauty enhances both operational efficiency for owners and satisfaction for customers.
 
 ## Key Features
 
@@ -35,6 +35,22 @@
 
 ## Tech Stack
 
+1. Backend and Logic
+   * Python & Django: Core web framework for logic and security.
+   * Hybrid Algorithm: Combined content-based and rule-based recommendation logic.
+   
+2. Frontend
+   * HTML5 & CSS3
+   * JavaScript
+   
+3. Database
+   * MySQL: Primary relational database for user and product data.
+   * MySQL Workbench: Used for database modeling and schema management.
+   
+4. Tools and Methodology
+   * Visual Studio Code (VS Code): Primary IDE for development.
+   * GitHub: Version control and source code management.
+   * Canva: Used for UI wireframing and prototyping
 
 ## Screenshots
 
