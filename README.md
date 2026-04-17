@@ -5,6 +5,33 @@
 
 ## Key Features
 
+1. Authentication & Security
+  * Secure registration, login, and logout processes for customers.
+  * Robust authentication to verify user eligibility and protect sensitive data.
+  
+2. User Management
+  * Managers can create, view, and update employee account details.
+  * Customers have the autonomy to manage and update their personal profiles seamlessly.
+    
+3. Inventory Control
+  * Intuitive interface for managers to add new products, update details (names, pricing, variations, images), or remove items.
+  * Automated stock level tracking to ensure product availability and prevent overselling.
+  
+4. Seamless Shopping Experience
+  * User-friendly product browsing and "Add to Cart" functionality.
+  * Integrated QR code scanning for a modern, fast, and secure checkout process.
+    
+5. Smart Product Recommendations
+  * Utilizes a combination of Content-Based filtering and rule-based logic.
+  * Delivers tailored makeup suggestions based on the user's specific skin profile and requirements.
+    
+6. Order & Delivery Tracking
+  * Customers can track their order status in real-time.
+  * Staff can update delivery statuses and log specific shipping details for every order.
+    
+7. Advanced Reporting
+  * Generates periodic reports on sales performance, customer activity, and inventory levels.
+  * Reports are available in CSV or PDF formats to assist management in strategic decision-making.
 
 ## Tech Stack
 
